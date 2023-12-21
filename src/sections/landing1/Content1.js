@@ -18,8 +18,8 @@ const Content1 = () => (
               </p>
             </div>
             <ReactCompareImage
-              leftImage="https://hydeliving.co.id/images/landing-page/magic_before.png"
-              rightImage="https://hydeliving.co.id/images/landing-page/magic_after.png"
+              leftImage="https://hydeliving.co.id/images/landing-page/magic_render.webp"
+              rightImage="https://hydeliving.co.id/images/landing-page/magic_reality.webp"
               leftImageLabel="Render"
               leftImageCss={{
                 width: '100%',
